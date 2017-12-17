@@ -40,6 +40,6 @@ center {
  justify-content:center;
  align-items:center;
 兼容性较好，缺点:不支持IE7以下的浏览器
- 
+ 6.
 
 【此坑待填 敬请关注!!!】
