@@ -42,4 +42,14 @@ center {
 兼容性较好，缺点:不支持IE7以下的浏览器
  6.父:display:realtive
   子：transform:translate(-50%,-50%)
+ 
+img正中间裁剪
+div{
+  width
+  heitht
+  img {
+    object-fit：cover;
+  }
+}
+postition:
 【此坑待填 敬请关注!!!】
