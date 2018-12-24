@@ -41,7 +41,7 @@ center {
  align-items:center;
 兼容性较好，缺点:不支持IE7以下的浏览器
  6.父:display:realtive
-  子：transform:translate(-50%,-50%)
+  子：transform:translate(-50%,-50%) postition:
  
 img正中间裁剪
 div{
@@ -51,5 +51,11 @@ div{
     object-fit：cover;
   }
 }
-postition:
+
+竖向文本
+p {
+  writint-mode:vertical-rl;
+}
+
+
 【此坑待填 敬请关注!!!】
